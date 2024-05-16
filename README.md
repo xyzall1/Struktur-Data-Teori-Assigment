@@ -1,4 +1,4 @@
-## Repository praktikum algoritma dan struktur data
+## Repository teori algoritma dan struktur data
 
 <pre>
 Nama : Rosa Nur Aliana Sawafi
