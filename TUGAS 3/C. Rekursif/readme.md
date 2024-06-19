@@ -61,4 +61,4 @@ Saat kode dijalankan kode ini menggunakan rekursif langsung, dengan fungsi facto
 
  [2]“PRAKTIKUM 7 REKURSIF S1 IF 11.” Accessed: Jun. 18, 2024. [Online]. Available: https://yuliana.lecturer.pens.ac.id/Struktur%20Data/PRAKTIKUM%202015/Praktikum%207%20-%20Rekursif%201.pdf
 
- [3]“Struktur Data Queue: Pengertian, Jenis, dan Kegunaannya,” Trivusi, Sep. 16, 2022. https://www.trivusi.web.id/2022/07/struktur-data-queue.html
+ 
