@@ -86,4 +86,5 @@ Kode di atas merupakan sebuah program yang akan menjalankan kode yang memuat ten
 
 #### Output:
 ![image](https://github.com/xyzall1/Struktur-Data-Assigment/assets/161272189/c625985e-b3b4-430f-9ef9-8e35bc124179)
+
 Saat dijalankan kode tersebut akan menampilkan sebuah output berupa data berupa buku yang di mana isinya berisikan variabel, di mana ada lima data buku dalam output yang akan dijalankan dalam kode serta dalam data buku tersebut terdapat lima variabel juga yaitu (judul, pengarang, penerbit, tebal halaman, serta harga buku). Data buku tersebut nantinya akan keluar sesuai terhadap masing-masing inputan array yang kita masukkan. Seperti gambar di atas ini.
