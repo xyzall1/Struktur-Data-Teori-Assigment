@@ -5,7 +5,7 @@
 1. Terdapat dua algoritma searching yang umum digunakan yakni, Binary Search dan Linear Search. Berikan penjelasan alur dari masing-masing algoritma tersebut, dan jelaskan runtime dari best case dan worst case masing-masing algoritma! (35 Poin)
 
 #### Jawaban
-1. Binary Search
+ A. Binary Search
 - Berikut alur dari algoritma Binary Search :
     - Pertama buat perulangan lalu menentukan posisi low yaitu posisi yang menandakan index paling rendah kemudian menentukan posisi high. Kemudian mencari posisi mid = (high + low)/2.
     - Kemudian kita bandingkan data yang dicari dengan nilai yang ada di posisi mid.
@@ -16,8 +16,7 @@
 - Runtime dari best case dan worst case 
 Jika kita melihat dari alur algoritma di atas, proses dari Binary search untuk runtime best case yaitu O(1) hal ini akan terjadi jika elemen yang dicari adalah elemen yang pertama dalam array namun runtime akan menjadi worst case jika O(log n) jika elemen yang dicari yaitu elemen terakhir dalam array.
 
-
-2. Linear Search
+B. Linear Search
 - Berikut alur dari algoritma Linear Search:
     - Kita mulai dari indeks ke-0 dari beberapa larik masuka, lalu akan kita bandingkan nilai kunci dengan nilai yang ada di indeks ke-0
     - kemudian jika nilainya cocok dengan kuncinya, maka kembalikan posisi di mana nilai itu ditemukan.
