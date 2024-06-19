@@ -4,7 +4,7 @@
 ## Penjelasan 
 Hash table merupakan algoritma yang memiliki kemampuan untyk menambah proses tambah, hapus, dan pencarian secara bersamaan, selain itu hash table sendiri memiliki kompleksitas waktu O(1) [1]. Teknik hash memungkinkan kita secara langsung mengakses data daftar dalam tabel dengan menghitung kunci, yang merupakan alamat daftar dalam tabel. Suatu data unik, yang dapat berupa nomor atau string karakter, disebut kunci.
 
-!![image](https://github.com/xyzall1/Struktur-Data-Teori-Assigment/assets/161272189/ffaa3bdf-365a-4d83-b21c-0415c589b6b0)
+![image](https://github.com/xyzall1/Struktur-Data-Teori-Assigment/assets/161272189/ffaa3bdf-365a-4d83-b21c-0415c589b6b0)
 Struktur dalam data tabel hash yaitu menyimpan elemen dalam pasangan nilai key di mana:
 - Key : bilangan bulat yang digunakan untuk indeks nilai
 - Nilai : sebuah data yang memiliki hubungan dengan key [2]
